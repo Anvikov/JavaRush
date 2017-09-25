@@ -1,10 +1,9 @@
 package com.javarush.test.level22.lesson09.task03;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
